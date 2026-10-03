@@ -1,0 +1,7 @@
+{
+  "name": "SnoozyLayout",
+  "description": "Blocky everything, no animations, layout rules with presets, and a layout map recorder.",
+  "authors": [{ "name": "you" }],
+  "main": "index.js",
+  "hash": "snoozy-5"
+}
