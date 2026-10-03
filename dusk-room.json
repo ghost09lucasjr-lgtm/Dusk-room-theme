@@ -1,31 +1,79 @@
 {
-  "name": "Dusk Room",
-  "description": "Midnight, minimal, lofi dusk.",
-  "authors": [{ "name": "you" }],
+  "name": "Duskoom",
+  "description": "Midnight, minimal, pink and blue lofi dusk.",
+  "authors": [
+    {
+      "name": "you"
+    }
+  ],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#0b0a1f"],
-    "BACKGROUND_SECONDARY": ["#12102b"],
-    "BACKGROUND_SECONDARY_ALT": ["#0e0c24"],
-    "BACKGROUND_TERTIARY": ["#080717"],
-    "BACKGROUND_FLOATING": ["#161336"],
-    "BACKGROUND_MODIFIER_HOVER": ["#2fd0c014"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#2fd0c022"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#2fd0c02e"],
-    "CHAT_BACKGROUND": ["#0b0a1f"],
-    "TEXT_NORMAL": ["#f1e9ff"],
-    "TEXT_MUTED": ["#8f86b3"],
-    "TEXT_LINK": ["#2fd0c0"],
-    "HEADER_PRIMARY": ["#ffffff"],
-    "HEADER_SECONDARY": ["#b9aee0"],
-    "INTERACTIVE_NORMAL": ["#b9aee0"],
-    "INTERACTIVE_HOVER": ["#ffffff"],
-    "INTERACTIVE_ACTIVE": ["#ff7aa2"],
-    "INTERACTIVE_MUTED": ["#5b4a8a"],
-    "STATUS_POSITIVE_BACKGROUND": ["#2fd0c0"],
-    "STATUS_DANGER": ["#e0584a"],
-    "MENTION_FOREGROUND": ["#ff7aa2"],
-    "MENTION_BACKGROUND": ["#ff7aa222"]
+    "BACKGROUND_PRIMARY": [
+      "#0b0a1f"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#12102b"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0e0c24"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#080717"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#161336"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#4da3ff1f"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#4da3ff33"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#4da3ff4d"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0b0a1f"
+    ],
+    "TEXT_NORMAL": [
+      "#f1e9ff"
+    ],
+    "TEXT_MUTED": [
+      "#8f86b3"
+    ],
+    "TEXT_LINK": [
+      "#5cb0ff"
+    ],
+    "HEADER_PRIMARY": [
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#b9aee0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#b9aee0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ff7aa2"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5b4a8a"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#4da3ff"
+    ],
+    "STATUS_DANGER": [
+      "#e0584a"
+    ],
+    "MENTION_FOREGROUND": [
+      "#ff7aa2"
+    ],
+    "MENTION_BACKGROUND": [
+      "#ff7aa222"
+    ]
   },
   "rawColors": {
     "BRAND_500": "#ff6f91",
