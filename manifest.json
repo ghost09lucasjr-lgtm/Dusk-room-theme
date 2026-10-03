@@ -1,0 +1,7 @@
+{
+  "name": "SnoozyInspector",
+  "description": "Lists Discord's loaded component names so layout changes can target the right ones.",
+  "authors": [{ "name": "you" }],
+  "main": "index.js",
+  "hash": "inspector-1"
+}
