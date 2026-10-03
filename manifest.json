@@ -1,0 +1,7 @@
+{
+  "name": "SnoozyLayout",
+  "description": "Blocky everything, no animations, split-screen calls, and experimental layout moves, all with settings.",
+  "authors": [{ "name": "you" }],
+  "main": "index.js",
+  "hash": "snoozy-2"
+}
